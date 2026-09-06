@@ -1,7 +1,7 @@
 ### What is Zaki?
 - Zaki is an ambitious AI bot that I'm making, which is going to support tool calling in the near future, going to be entirely async, and will be my main bot.
 
-### Features as of the 0.0.0-pre-alpha-build version
+### Features as of the 0.0.0 pre-alpha version
 
 ### How to configure your bot?
 
