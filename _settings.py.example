@@ -1,0 +1,17 @@
+"""
+WARNING:
+AFTER SETTING YOUR BOT TOKEN AND GROQ API KEY DO NOT COMMIT OR SEND ANYONE THIS FILE. SENDING THIS FILE WITH THE SECRETS COULD POSE A CYBERATTACK TO YOUR DISCORD SERVER OR MAKE YOUR GROQ QUOTA RUN OUT
+"""
+
+# your bot token between the quotation marks, get yours from https://discord.com/developers/applications
+BOT_TOKEN = ""
+
+# your groq api key 
+GROQ_API_KEY = ""
+
+# put your system instructions in between the 3 quotation marks
+# system_instructions = """your instructions here"""
+system_instructions = """ """
+
+# DEBUG SWITCHES
+debug_mode = True
