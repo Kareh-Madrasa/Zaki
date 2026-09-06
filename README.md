@@ -19,7 +19,7 @@ Linux Debian 13 Trixie and Ubuntu 25+
 sudo apt install python3.13-venv && pip install discord groq openai aiosqlite aiohttp --break-system-packages && python main.py
 ```
 
-Windows 10/11
+Windows 10/11 (i have no way of testing whether this works please DM me if it doesnt)
 ```powershell
 pip install discord groq openai aiosqlite aiohttp --break-system-messages && python main.py
 ```
